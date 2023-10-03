@@ -75,6 +75,7 @@ btnRoll.addEventListener('click', function () {
       //  player0El.classList.toggle('player--active');
       switchPlayer();
     }
+    console.log('hola')
   }
 });
 
